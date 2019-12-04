@@ -1,6 +1,8 @@
-Thanks for downloading this theme!
+#Introduction
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is a website designed for the completion of Npower Frontend Assessment
+
+
+##Usage
+
+Host files under a webser and access. Use *index.html* as the entry point
